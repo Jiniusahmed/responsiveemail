@@ -12,6 +12,7 @@ body{
 
 }
 
+
 .topImages{
     min-height: 450px;
     width: 100%;
@@ -164,7 +165,7 @@ body{
         min-height: 500px;
     }
     .description{
-        text-align:none;
+        text-align: none;
     }
     
 }
@@ -192,7 +193,7 @@ body{
         min-height: 400px;
     }
     .description{
-        text-align:none;
+        text-align: none;
     }
     
 }
@@ -220,7 +221,7 @@ body{
         min-height: 305px;
     }
     .description{
-        text-align:none;
+        text-align: justify;
     }
 }
 
